@@ -1,4 +1,4 @@
-This project analyzes customer data to identify patterns in bike purchases. Using Excel, we created a dashboard with key insights, trends, and visualizations.
+This project analyzes customer data to identify patterns in bike purchases. Using Excel, I created a dashboard with key insights, trends, and visualizations.
 
 🔍 Objective
 
