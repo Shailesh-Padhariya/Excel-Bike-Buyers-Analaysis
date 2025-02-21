@@ -1,10 +1,10 @@
 This project analyzes customer data to identify patterns in bike purchases. Using Excel, I created a dashboard with key insights, trends, and visualizations.
 
-🔍 Objective
+Objective
 
 To understand the factors influencing bike purchases, such as age, income, and commute distance, using Excel tools.
 
-🛠️ Tools & Techniques Used
+Tools & Techniques Used
 
 Microsoft Excel
 
